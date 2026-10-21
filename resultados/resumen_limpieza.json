@@ -1,0 +1,11 @@
+{
+  "version": "v1",
+  "filas_originales": 150,
+  "filas_limpias": 149,
+  "valores_nulos": 0,
+  "duplicados_eliminados": 1,
+  "criterio_duplicados": "Eliminar filas idénticas en características y objetivo para evitar que copias exactas aparezcan en entrenamiento y prueba. Sin identificadores, no puede verificarse si eran flores distintas.",
+  "tratamiento_nulos": "Si existen nulos en las características, se imputarán dentro del pipeline de entrenamiento.",
+  "escalado": "Se ajustará únicamente con datos de entrenamiento.",
+  "categoricas": "No hay características categóricas; target ya está codificado."
+}

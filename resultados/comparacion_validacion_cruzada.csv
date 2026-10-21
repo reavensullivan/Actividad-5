@@ -1,0 +1,3 @@
+modelo,f1_macro_cv,std_f1_cv,accuracy_cv,roc_auc_cv,tiempo_busqueda_s,mejores_parametros,run_id
+regresion_logistica,0.9629258529568128,0.05564389701650992,0.9655797101449275,0.996547619047619,10.621479000000363,"{""modelo__C"": 1.0}",fea23ac0261a417ab28b4c7d5ad3da0b
+random_forest,0.9347027699968876,0.07429369530031406,0.9402173913043479,0.9971775793650794,5.849770400000125,"{""modelo__max_depth"": null, ""modelo__min_samples_leaf"": 1, ""modelo__n_estimators"": 100}",e9515a59aa4d431cbe58355aa3cce153

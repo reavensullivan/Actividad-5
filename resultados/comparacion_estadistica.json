@@ -1,0 +1,13 @@
+{
+  "prueba": "McNemar exacto bilateral",
+  "muestra": "30 registros de prueba",
+  "ambos_aciertan": 28,
+  "solo_logistica_acierta": 0,
+  "solo_random_forest_acierta": 0,
+  "ambos_fallan": 2,
+  "pares_discordantes": 0,
+  "p_valor": 1.0,
+  "nivel_significancia": 0.05,
+  "interpretacion": "Ambos modelos aciertan y fallan en los mismos registros. No hay pares discordantes; se reporta p=1 por convención. Esto no demuestra equivalencia fuera de esta muestra.",
+  "limitacion": "La muestra de prueba es pequeña. El contraste evalúa tasas de error, no diferencias en F1 ni ROC-AUC."
+}

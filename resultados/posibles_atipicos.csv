@@ -1,0 +1,13 @@
+especie,variable,posibles_atipicos
+setosa,largo_sepalo_cm,0
+setosa,ancho_sepalo_cm,2
+setosa,largo_petalo_cm,4
+setosa,ancho_petalo_cm,2
+versicolor,largo_sepalo_cm,0
+versicolor,ancho_sepalo_cm,0
+versicolor,largo_petalo_cm,1
+versicolor,ancho_petalo_cm,0
+virginica,largo_sepalo_cm,2
+virginica,ancho_sepalo_cm,0
+virginica,largo_petalo_cm,0
+virginica,ancho_petalo_cm,0

@@ -1,0 +1,15 @@
+{
+  "python": "3.12.7",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "paquetes": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.13.1",
+    "matplotlib": "3.9.2",
+    "mlflow": "3.17.1",
+    "joblib": "1.4.2",
+    "nbformat": "5.10.4",
+    "cloudpickle": "3.0.0"
+  }
+}
