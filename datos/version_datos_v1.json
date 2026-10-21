@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "semilla": 42,
+  "proporcion_prueba": 0.2,
+  "division": "estratificada por especie",
+  "filas_entrenamiento": 119,
+  "filas_prueba": 30,
+  "sha256": {
+    "datos/datos_ini/iris_original.csv": "2a142890aa4d797b0e8746373626a5d81d839bb5a4fd60ac1fbeee6faf0f62d5",
+    "datos/datos_limp/iris_limpio_v1.csv": "c1940fb8e84fbec5e22ed8b90eff7663b2d78c052e34a89cbe098c99d18dfbff",
+    "datos/datos_limp/entrenamiento_v1.csv": "dc0ae91ca6f7f528398bbb7490271c3c1c2b5992a8192b880491dde2e62fa513",
+    "datos/datos_limp/prueba_v1.csv": "812f03f1b7bc45b2822d6fc0ebd9b77d07d0881b9998790c64613d240b679df2"
+  }
+}
