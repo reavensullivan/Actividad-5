@@ -144,7 +144,7 @@ train.py incluye registro de código, entorno y particiones CV.
 Estas incorporaciones corresponden a nuevas ejecuciones del script;
 no se atribuyen a ejecuciones anteriores del notebook.
 
-## Deuda técnica y MLOps
+## Deuda técnica y MLOps (Importante por ser ejercicio acádemico)
 - Ampliar datos y realizar validación externa.
 - Considerar el optimismo de las métricas CV utilizadas para ajustar
   hiperparámetros; conservar una evaluación final independiente.
@@ -156,4 +156,3 @@ no se atribuyen a ejecuciones anteriores del notebook.
 - Definir monitoreo de deriva, desempeño y calidad de datos.
 - Establecer criterios de reentrenamiento y reversión.
 - El proyecto es un prototipo académico sin despliegue en producción.
-
